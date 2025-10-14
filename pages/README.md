@@ -5,3 +5,4 @@ ex2:
 ~για το byte2 ετρεξα την εντολη grape "will find" shakspear.txt και βρηκα ολες τις σχετικες αναφορες στο will find
 ~για το byte3 εκτελεσα την diff και συγκεκριμενα diff -u shakspear.txt shakspear.modified.txt
 οπου με το (-προταση του αρχικου αρχειου και μετο +προταση νεου αρχειου)
+~για το byte4 εκτελεσα την find(find. -name "cup.txt")

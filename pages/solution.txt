@@ -3,3 +3,4 @@ byte0:you_just_mastered_changing_directories(secret code)
 byte1:in_every_job_that_must_be_done_there_is_an_element_of_fun
 byte2:grep_and_you_will_find(begins with no one will find these:)
 byte3:programmers(εχουμε αλλαγη απο την λεξη players στην λεξη programmers)
+byte4:./maze/left/right/8/cup.txt(η ζητουμενη διαδρομη)

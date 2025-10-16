@@ -6,3 +6,4 @@ byte3:programmers(εχουμε αλλαγη απο την λεξη players στ�
 byte4:./maze/left/right/8/cup.txt(η ζητουμενη διαδρομη)
 byte5:sdi2500008_1760611556_1891067808_85_74_25_113_51836_22(οπου ο κωδικος ξεκιναει μετο προσωπικο μου sdi)
 byte6:unzipping_is_a_piece_of_cake( unzip byte6.zip και παραγει byte6.txt)
+byte7:tar_jokes_cant_stick( tar -xzvf byte7.tar.gz επειδη εχει συμπιεστει με gzip)
